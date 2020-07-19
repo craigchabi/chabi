@@ -23,6 +23,10 @@ body{
    text-transform: uppercase;
 }
 
+.edu p img{
+   float: inherit;
+}
+
 .edu p{
    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
