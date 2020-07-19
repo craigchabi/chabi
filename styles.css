@@ -8,6 +8,11 @@ body{
    text-transform: uppercase;
 }
 
+.info p img{
+   width: 500px;
+   height: 250px;
+}
+
 .info p{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
